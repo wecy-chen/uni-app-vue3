@@ -17,3 +17,6 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+pages.json
+pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages\
